@@ -23,8 +23,10 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Install lib infinite-loading
+### Install libs
 ```
 yarn add axios
-yarn add v3-infinite-loading -D
+```
+```
+yarn add vue-infinite-loading -D
 ```
